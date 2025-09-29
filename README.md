@@ -1,8 +1,11 @@
 # Dashboard-design in Power BI
-Collection of dataset
-cleaning the dataset in Power BI editor
-uploading to the Power BI
-creating the dashoard and applying designs
+
+1. Collecting the dataset
+2. cleaning the dataset in Power BI editor
+3. uploading to the Power BI
+4. creating the dashoard and applying designs
+
+
 
 
 
